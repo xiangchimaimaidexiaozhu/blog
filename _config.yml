@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 惟灿 Can1425
-subtitle: '心若向阳，无畏冰霜'
-description: '心若向阳，无畏冰霜'
+title: 猪猪のBlog
+subtitle: '长风破浪会有时，直挂云帆济沧海。'
+description: '长风破浪会有时，直挂云帆济沧海。'
 keywords: 
-author: 惟灿 Can1425
+author: 猪猪
 language: zh-CN
 timezone: ''
-email: 'myqf1425@126.com'
+email: 'zhuguojin2011win@163.com'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://can1425.best6.top
+url: https://blog.yizhixiaozhu.top
 root: /
 permalink: posts/:abbrlink/
 
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Acrylic
+theme: Anzhiyu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
