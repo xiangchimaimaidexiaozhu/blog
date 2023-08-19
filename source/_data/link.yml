@@ -1,0 +1,109 @@
+- class_name: 关于博主
+  class_desc: 友商平台联系方式
+  link_list:
+    - name: 酷安
+      link: https://preview.cloud.189.cn/image/imageAction?param=B8EF249DCA3CF37AB8C901FCA76B6BF6F29A531005BB6ED718FD3681785324E60C9C6DF54141688DDE6CE612D25CAAEACE06C472CE7683AC14138EFF1B9793573947C228D902C7F6A1FC1463A213F1D96702F501A8B447E42665381BDD5C7D285C77124E9E28F204BE66DA9B541BA84F
+      avatar: https://preview.cloud.189.cn/image/imageAction?param=7CE2BE33E09529D89820AB216B251913C05DB46F68E7EC1C947735F6DFE4C5C81E00E4C3DAAA97F270CF543B3FF058EB5212779E1E27AC41CE6249A91727BE121DFC308738CA7FAC6CB3D7EB0877B44B8308DD8A692805C70C95D88BF2AEEA39CC7ED180EF4A8291FD191459BC892482
+      descr: 数码内容分享
+    - name: 即刻
+      link: https://okjk.co/B93W5p
+      avatar: https://preview.cloud.189.cn/image/imageAction?param=EF78D50E5A625371ED6EE350BD32D787C4E9EEB54DDBB34D362D70D85BBC10542791D5BBC2FB407559798E53A172DCB3F37685B7697A3CD8DF2F2AF4BBF911CDC4CA0AAABB76B421914B59EA4A89993CF2BAC38EAB21D6EA9387F36910E1EFF96070ABAF67A164510A7C7CBAE733C9B2
+      descr: 社区内容分享
+    - name: 微博
+      link: https://weibo.com/u/7372059004
+      avatar: https://preview.cloud.189.cn/image/imageAction?param=5C5CE99232C6E86308A147A33AD2319CBF130C61E3A7B7B7B86A3A18C1757EA2DC37746B3F6A1C07547394303EF8419847311353CDB193207E9A6B65DC51BC4175514BC53AA3B7DD7CA2511C8C3B104F3C82D22188E9EB9AF06059E0470DFE63F91DF9563E50003441A8C7E0D2C98ED9
+      descr: 行业内容分享
+
+
+- class_name: 友情链接
+  class_desc: 朋友一生一起走
+  link_list:
+    - name: 梦繁星
+      link: https://blog.emoao.com/
+      avatar: https://blog.emoao.com/static/img/avatar.webp
+      descr: 允你一世繁星，许你一世星辰！
+    - name: Black Flies
+      link: https://www.yyyzyyyz.cn/
+      avatar: https://npm.elemecdn.com/imgscdn/img/202111191951780.JPG
+      descr: When nothing goes right,just go left.
+    - name: iMaeGoo's Blog
+      link: https://www.imaegoo.com/
+      avatar: https://www.imaegoo.com/images/avatar.jpg
+      descr: 虹墨空间站
+    - name: 贰猹的小窝
+      link: https://noionion.top/
+      avatar: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
+      descr: 用这生命中的每一秒，给自己一个不后悔的未来
+    - name: CC的部落格
+      link: https://blog.ccknbc.cc/
+      avatar: https://cdn1.tianli0.top/gh/ccknbc-backup/cdn/logo/logo.png
+      descr: CC康纳百川的小窝
+    - name: Heo
+      link: https://blog.zhheo.com/
+      avatar: https://blog.zhheo.com/img/avatar.png
+      descr: 爱折腾的设计师 
+    - name: Akilarの糖果屋
+      link: https://akilar.top/
+      avatar: https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.png
+      descr: 期待您的光临！
+    - name: 马草原 の Blog
+      link: https://www.mcaoyuan.com/
+      avatar: https://file.mcaoyuan.com/blog/IMG_1477.JPG
+      descr: 记录成长，分享生活~
+    - name: HiPeach
+      link: https://opeach.cn/
+      avatar: https://opeach.cn/media/avatar.webp
+      descr: 妙不可言
+    - name: Tianli
+      link: https://tianli-blog.club/
+      avatar: https://img1.tianli0.top/logo.png
+      descr: 惟其不可能，所以才相信。
+    - name: Yuexin’s Blog
+      link: https://wyxogo.top/
+      avatar: https://wyxogo.top/images/avatar.webp
+      descr: KEEP WALKING
+    - name: Jayhrn
+      link: https://blog.jayhrn.com/
+      avatar: https://cdn1.tianli0.top/gh/Jayhrn/CDN/img/avatar.png
+      descr: 念念不忘，必有回响
+    - name: 杜老师说
+      link: https://dusays.com/
+      avatar: https://cdn.dusays.com/avatar.png
+      descr: dusays
+    - name: 浅秋枫影的博客
+      link: https://cuojue.org/
+      avatar: https://cuojue.org/avatar/b81741f1a25b57a016e223fe13f905b4
+      descr: 给自己的网络生涯留下一笔精神财富！
+    - name: 优世界
+      link: https://usj.cc/
+      avatar: https://usj.cc/favicon.ico
+      descr: 记录生活点点滴滴
+    - name: Lete乐特
+      link: https://blog.imlete.cn/
+      avatar: https://www.imlete.cn/img/avatar.png
+      descr: 人生只有一次，大胆的生活！
+    - name: Prong
+      link: https://prong.ltd/
+      avatar: https://prong-1316442664.cos.ap-nanjing.myqcloud.com/picgo/202301242359645.webp
+      descr: 尖头叉子在霍格沃茨的休息室~
+    - name: Baili Blog
+      link: https://baili.tax/
+      avatar: https://preview.cloud.189.cn/image/imageAction?param=C21DC04BC969763379D9C9357A1089B65C799DFA863ADF8A7231744088D97D51FE786BDCE1AD8908FC8416DE582E8A3D66E4C151DC1872220E800526FCDA87EAA38D6E6FFE2E17C95A6445344C4B429EE4A32F8B2456A8A03B923C2AAE590387F2BBF412ABCF977EBFB3A2C08C33173B
+      descr: 一个源码资源教程分享博客
+    - name: 托尼哥的玩具博客
+      link: https://www.tony-bro.com/
+      avatar: https://www.tony-bro.com/img/avatar.jpg
+      descr: 一个无趣的灵魂
+    - name: 爱吃肉的猫
+      link: https://meuicat.com/
+      avatar: https://s1.ax1x.com/2023/05/26/p9qChjI.jpg
+      descr: 有肉有猫有生活.
+    - name: Ading阿定の小站
+      link: https://saop.cc
+      avatar: https://picbed.saop.cc/Asuna/Asuna1x1.png
+      descr: 我们终会相遇相知，在那悠远的苍穹
+    - name: 柠萌の部落
+      link: https://www.lemonbuluo.eu.org/
+      avatar: https://www.lemonbuluo.eu.org/img/lemonsuka.webp
+      descr: 一个闲聊萌新动漫技术交流站
+
