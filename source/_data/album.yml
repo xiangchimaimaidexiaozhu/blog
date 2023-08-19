@@ -1,0 +1,17 @@
+- class_name: 壁纸
+  path_name: /wordScenery
+  type: 2
+  description: 分享一些壁纸。
+  cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  album_list:
+    - date: 2023/05/20 
+      content: 壁纸
+      address: 山东
+      from: 猪猪
+      image:
+        - img/1.png
