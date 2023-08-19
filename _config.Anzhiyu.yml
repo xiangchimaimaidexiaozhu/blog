@@ -6,19 +6,19 @@ menu:
 
    友链:
      友人帐: /link/ || anzhiyu-icon-link
-     朋友圈: /fcircle/ || anzhiyu-icon-artstation
-     留言板: /comments/ || anzhiyu-icon-envelope
+     #朋友圈: /fcircle/ || anzhiyu-icon-artstation
+     #留言板: /comments/ || anzhiyu-icon-envelope
 
    我的:
-     音乐馆: /music/ || anzhiyu-icon-music
-     追番页: /bangumis/ || anzhiyu-icon-bilibili
-     相册集: /album/ || anzhiyu-icon-images
+     #音乐馆: /music/ || anzhiyu-icon-music
+     #追番页: /bangumis/ || anzhiyu-icon-bilibili
+     #相册集: /album/ || anzhiyu-icon-images
      小空调: /air-conditioner/ || anzhiyu-icon-fan
 
    关于:
      关于本人: /about/ || anzhiyu-icon-paper-plane
-     闲言碎语: /essay/ || anzhiyu-icon-lightbulb
-     随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
+     #闲言碎语: /essay/ || anzhiyu-icon-lightbulb
+     #随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
 # nav相关配置
 nav:
@@ -31,11 +31,6 @@ nav:
         - name: 博客
           link: https://blog.anheyu.com/
           icon: /img/favicon.ico
-    - title: 项目
-      item:
-        - name: 安知鱼图床
-          link: https://image.anheyu.com/
-          icon: https://image.anheyu.com/favicon.ico
 
 # Code Blocks (代码相关)
 # --------------------------------------
@@ -77,7 +72,6 @@ author_status:
      - 🤝 专修交互与设计
      - 🏃 脚踏实地行动派
      - 🧱 团队小组发动机
-     - 💢 壮汉人狠话不多
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系统
@@ -335,7 +329,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Valine/Waline/Twikoo/Artalk
-  use: # Twikoo/Waline
+  use: twikoo
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -381,9 +375,9 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: https://pinglun.yizhixiaozhu.top/
   region:
-  visitor: false
+  visitor: true
   option:
 
 # Artalk
@@ -407,8 +401,8 @@ chat_hide_show: false
 # chatra
 # https://chatra.io/
 chatra:
-  enable: false
-  id:
+  enable: true
+  id: C3WY5vAXabSFLBseX
 
 # tidio
 # https://www.tidio.com/
@@ -539,7 +533,7 @@ footer:
       # - link: https://image.anheyu.com
       #   text: 图床
       # - link: https://beian.miit.gov.cn/
-      #   text: 湘ICP备-xxxxxxx号
+      #   text: 正在备案中
     subTitle:
       enable: false
       # Typewriter Effect (打字效果)
@@ -551,7 +545,7 @@ footer:
       # loop (循环打字)
       loop: true
       # source 调用第三方服务
-      # source: false 关闭调用
+      # source: true 关闭调用
       # source: 1  调用一言网的一句话（简体） https://hitokoto.cn/
       # source: 2  调用一句网（简体） http://yijuzhan.com/
       # source: 3  调用今日诗词（简体） https://www.jinrishici.com/
@@ -775,12 +769,12 @@ subtitle:
 
 # Loading Animation (加载动画)
 preloader:
-  enable: true
+  enable: false
   # source
   # 1. fullpage-loading
   # 2. pace (progress bar)
   # else all
-  source: 3
+  source: 2
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
   avatar: # 自定义头像
@@ -807,7 +801,7 @@ aside:
     enable: false
     content: 欢迎来看我的博客鸭~
   card_weixin:
-    enable: true
+    enable: false
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
     backFace: https://bu.dusays.com/2023/05/13/645fa415e8694.png
   card_recent_post:
@@ -852,7 +846,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 5/23/202 11:42:00
+  publish_date: 4/29/2023 10:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
@@ -1026,17 +1020,17 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: date #date/updated
-  title: 分享阳光与收获
-  subTitle: 欢笑与成长
-  siteText: 惟灿 Can1425
+  title: 长风破浪会有时
+  subTitle: 直挂云帆济沧海
+  siteText: 猪猪
   category:
-    - name: 前端
-      path: /categories/前端开发/
+    - name: 刷机
+      path: /categories/刷机/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 大学
-      path: /categories/大学生涯/
+    - name: 教程
+      path: /categories/教程/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
@@ -1051,10 +1045,10 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 新品主题
-    title: Theme-AnZhiYu
+    tips: 我的主页
+    title: HomePage-ZhuZhu
     image: https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
-    link: https://docs.anheyu.com/
+    link: https://www.yizhixiaozhu.top/
 
 # 朋友圈配置
 friends_vue:
