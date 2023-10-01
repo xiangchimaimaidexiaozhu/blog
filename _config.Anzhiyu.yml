@@ -1187,7 +1187,7 @@ inject:
 
   bottom:
     # 自定义js
-    # - <script src="/js/xxx"></script>
+    - <script src="https://cdn.jsdelivr.net/gh/lete114/CDN/Sum/sakura.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
