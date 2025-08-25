@@ -1,0 +1,9 @@
+- links_category: 分类名
+  has_thumbnail: 是否有预览图（true/false)
+  list:
+      - name: W-Can1425
+        link: https://can1425.flowecho.org
+        description: 我的好基友
+        avatar: https://can1425.flowecho.org/
+        thumbnail: 预览图（has_thumbnail 为 true 时才需要）
+ 
