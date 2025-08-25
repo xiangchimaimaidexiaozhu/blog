@@ -33,6 +33,7 @@
     "hexo-theme-redefine": "^2.8.5",
     "hexo-theme-solitude": "^3.0.20",
     "hexo-wordcount": "^6.0.1",
+    "latest": "^0.2.0",
     "social-share.js": "^1.0.16",
     "yamljs": "0.3.0"
   },
