@@ -205,11 +205,11 @@ navbar:
     pages: 1000px #other pages
   # Navbar links
   links:
-    Home: 
+    主页: 
       path: /
       icon: fa-regular fa-house 
     # can be empty
-    Archives: 
+    归档: 
       path: /archives 
       icon: fa-regular fa-archive # can be empty
   # Status: 
@@ -222,12 +222,9 @@ navbar:
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
-    Links: 
+    友链: 
        icon: fa-regular fa-link
-       submenus:
-         Link1: /links
-         Link2: /link2
-         Link3: /link3
+       path: /links
     Tags:
         icon: fa-solid fa-tags #图标
         path: /tags/ #链接
