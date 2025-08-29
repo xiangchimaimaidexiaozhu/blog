@@ -222,6 +222,9 @@ navbar:
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
+    开往:
+        icon: fa-solid fa-paper-plane
+        path: https://foreverblog.cn/go.html
     友链: 
        icon: fa-regular fa-link
        path: /links
