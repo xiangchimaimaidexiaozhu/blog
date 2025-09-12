@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 猪猪のBlog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: system:error
+language: zh-CN
 timezone: ''
 
 # URL
