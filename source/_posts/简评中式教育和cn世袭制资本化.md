@@ -5,6 +5,8 @@ date: '2024-04-11T23:59:39.062954+08:0'
 tags: []
 title: 简评中式教育与cn世袭制
 updated: '2023-04-11T10:11:39.492+08:0'
+cover: https://blog.yizhixiaozhu.top/image/4.webp
+
 ---
 政治家的儿子长大依然是政治家，董事长的儿子长大依然是董事长
 

@@ -5,6 +5,8 @@ date: '2025-08-25T23:20:10.400135+08:00'
 tags: []
 title: 给OPPO mtk设备刷root
 updated: '2025-08-25T23:20:11.208+08:00'
+cover: https://blog.yizhixiaozhu.top/image/8.webp
+
 ---
 # 如何对搭载MTK芯片的OPPO/Realme设备进行Root操作
 

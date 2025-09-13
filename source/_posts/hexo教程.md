@@ -5,6 +5,8 @@ date: '2023-08-27T10:11:39.062954+08:00'
 tags: []
 title: hexo教程
 updated: '2023-8-27T10:11:39.492+8:0'
+cover: https://blog.yizhixiaozhu.top/image/7.webp
+
 ---
 一、前言
 我看b站上有的教程一点都不专业，很繁琐，基本上都说用github pages，没有人教其他的内容，所以，我的全系列hexo教程，来了，本人也不专业，所以大佬轻点喷。
