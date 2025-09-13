@@ -241,7 +241,7 @@ post:
   default:
     # Default image when no cover is set
     # 未设置封面时的默认图片
-    cover:
+    cover: /images/10.webp
       # - /img/default.avif # 默认图片 / default cover
     # Location
     # 位置

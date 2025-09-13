@@ -1,10 +1,8 @@
 ---
-abbrlink: 5f15e238
-categories: []
-date: '2024-04-11T23:59:39.062954+08:0'
-tags: []
-title: 简评中式教育与cn世袭制
-updated: '2023-04-11T10:11:39.492+08:0'
+title: 简评中式教育和cn世袭制
+date: 2025-09-13 13:50:18
+tags:
+    -杂谈
 cover: https://blog.yizhixiaozhu.top/image/4.webp
 
 ---
