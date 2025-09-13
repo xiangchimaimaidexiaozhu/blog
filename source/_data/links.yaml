@@ -15,8 +15,8 @@ links:
         avatar: https://s2.loli.net/2024/10/10/hOTRIKV4vy6EMf2.webp
         descr: 一个卡片UI主题，适用于 Hexo
         topimg: https://s2.loli.net/2025/01/21/RcNxQMy6mfliXtS.png
-  - class_name: 小伙伴
-    descr: 一些可爱的朋友🥰
+  - class_name: 朋友
+    descr: 我的朋友们
     type: item
     suffix:
     link_list:
@@ -24,4 +24,8 @@ links:
         link: https://can1425.flowecho.org
         avatar: https://can1425.flowecho.org/images/favicon.ico
         descr: 心若向阳，无畏冰霜。
-
+    link_list:
+      - name: Re:Frez79
+        link: https://re.frez79.io
+        avatar: https://re.frez79.io/img/favicon.png
+        descr: Frez79的个人综合性博客
