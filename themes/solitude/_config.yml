@@ -45,7 +45,7 @@ nav:
        友链:
          #朋友圈: /moments/ || fas fa-wifi
          友情链接: /links/ || fas fa-user-group
-         最近评论: /recentcomments/ || fas fa-comments
+         #评论: /recentcomments/ || fas fa-comments
         # 留言板: /message/ || fas fa-comment-dots
         # 宝藏博主: javascript:travelling() || fas fa-gift
        关于:
