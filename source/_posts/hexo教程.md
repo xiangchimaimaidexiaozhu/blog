@@ -5,7 +5,7 @@ date: '2023-08-27T10:11:39.062954+08:00'
 tags: []
 title: hexo教程
 updated: '2023-8-27T10:11:39.492+8:0'
-cover: https://blog.yizhixiaozhu.top/image/7.webp
+cover: https://blog.yizhixiaozhu.top/image/23.webp
 
 ---
 一、前言
