@@ -63,8 +63,8 @@ importers:
         specifier: ^6.0.1
         version: 6.0.1
       pnpm:
-        specifier: ^10.15.0
-        version: 10.15.0
+        specifier: ^10.17.0
+        version: 10.17.0
     devDependencies:
       compress:
         specifier: ^0.99.0
@@ -1266,8 +1266,8 @@ packages:
     resolution: {integrity: sha512-zMakqvIDyY40xHOvzXka0kUvf40nYIuwRE8dWhti2WtjQZ31xAgBZBhxsK7vK3QbRXS1Xms/LO7B5cuAsfB2Gg==}
     engines: {node: '>=10.13.0'}
 
-  pnpm@10.15.0:
-    resolution: {integrity: sha512-SG68JZ0+mZpOhpHOA7XKxKccvso5Nyqbdiy1AM/fCHPiyxar49lRse4s8BJQPwJ7mLZYTk3yJSTgx0UNnseqew==}
+  pnpm@10.17.0:
+    resolution: {integrity: sha512-/Oij3Smk7S7FZvtT77sE2MRKDwW8bySnMEaRD7nDznr6NaCYBQBmj6NXM0W9ZEZE+pgzj6FoI1yA9KoXqhf77w==}
     engines: {node: '>=18.12'}
     hasBin: true
 
@@ -2990,7 +2990,7 @@ snapshots:
     dependencies:
       ansi-colors: 1.1.0
 
-  pnpm@10.15.0: {}
+  pnpm@10.17.0: {}
 
   pretty-hrtime@1.0.3: {}
 
