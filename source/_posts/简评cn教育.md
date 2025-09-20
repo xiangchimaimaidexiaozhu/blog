@@ -1,10 +1,9 @@
 ---
 title: 简评中式教育和cn世袭制
+tags: '-杂谈'
+cover: 'https://blog.yizhixiaozhu.top/image/4.webp'
+abbrlink: a700b002
 date: 2025-09-13 13:50:18
-tags:
-    -杂谈
-cover: https://blog.yizhixiaozhu.top/image/4.webp
-
 ---
 政治家的儿子长大依然是政治家，董事长的儿子长大依然是董事长
 

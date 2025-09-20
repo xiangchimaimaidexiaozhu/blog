@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 关于主题使用问题
+    url: https://github.com/Stars-harbor/astrabay/discussions
+    about: 一些使用上碰到的问题 Discussion 询问。 Please ask questions in Discussion.
+
+  - name: QQ群
+    url: https://qm.qq.com/q/mxfomMvJPG
+    about: 通用Solitude主题QQ群
