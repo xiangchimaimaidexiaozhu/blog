@@ -37,7 +37,8 @@ nav:
   # Menu
   # 菜单
   menu:
-       首页: / # name: link
+       首页: 
+        首页: / # name: link
        文库: # name
          全部文章: /archives/ || fas fa-folder-closed # item name: link || icon
          全部分类: /categories/ || fas fa-clone
