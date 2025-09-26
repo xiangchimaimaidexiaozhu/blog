@@ -763,6 +763,8 @@ extends:
   # Insert in head
   # 插入到 head
   head:
+     - <script src="/js/index.js"></script>
+
   #  - <script src="https://cdn.bootcdn.net/ajax/libs/pace/1.2.4/pace.min.js"></script>
 
   # Insert in body
