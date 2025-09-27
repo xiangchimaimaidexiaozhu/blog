@@ -851,9 +851,9 @@ artalk:
   option: # options
 # Giscus
 giscus:
-  repo: # GitHub repository name
-  repo_id: # GitHub repository ID
-  category_id: # GitHub repository category ID
+  repo: xiangchimaimaidexiaozhu/giscus # GitHub repository name
+  repo_id: R_kgDOP3uM-g # GitHub repository ID
+  category_id: DIC_kwDOP3uM-s4Cv8UU # GitHub repository category ID
   theme:
     light: light
     dark: dark
