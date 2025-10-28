@@ -30,7 +30,7 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-solitude": "^3.0.20",
     "hexo-wordcount": "^6.0.1",
-    "pnpm": "^10.15.0"
+    "pnpm": "^10.20.0"
   },
   "devDependencies": {
     "compress": "^0.99.0",
