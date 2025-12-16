@@ -51,8 +51,8 @@ importers:
         specifier: ^3.0.0
         version: 3.0.0
       hexo-theme-anzhiyu:
-        specifier: ^1.6.14
-        version: 1.6.14
+        specifier: ^1.7.0
+        version: 1.7.0
       hexo-theme-landscape:
         specifier: ^1.0.0
         version: 1.1.0
@@ -832,8 +832,8 @@ packages:
     resolution: {integrity: sha512-u4s0ty9Aew6jV+a9oMrXBwhrRpUQ0U8PWM/88a5aHgDru58VY81mVrxOFxs788NAsWQ8OvsJtF5m7mnXoRnSIA==}
     engines: {node: '>=12.13.0'}
 
-  hexo-theme-anzhiyu@1.6.14:
-    resolution: {integrity: sha512-Ltbsaf1URcFfZuqMVeDvRM1XUjC/PYbXtgbv9V9FVjfv85sotELCEjX+PbkangyGFvlO0oWNJeEjNS9/UUF13w==}
+  hexo-theme-anzhiyu@1.7.0:
+    resolution: {integrity: sha512-Qex0H3vQ6B6XPhCWYlr4F+e/NupZcPcCMppjDBhe3H39hgYkYSI4H4KdkAqQZ4FnKXxqB8sJnmSg4sJfKXDsGA==}
 
   hexo-theme-landscape@1.1.0:
     resolution: {integrity: sha512-nszjixBEiEDZjf7glAGbHg0nKGHZdUDwzFVVdRDeu4FeHfGcY5CZNl9sF4vSligjnD8IwFXpDfx5E+GRmNKvWg==}
@@ -1126,6 +1126,7 @@ packages:
 
   moize@6.1.6:
     resolution: {integrity: sha512-vSKdIUO61iCmTqhdoIDrqyrtp87nWZUmBPniNjO0fX49wEYmyDO4lvlnFXiGcaH1JLE/s/9HbiK4LSHsbiUY6Q==}
+    deprecated: This library has been deprecated in favor of micro-memoize, which as-of version 5 incorporates most of the functionality that this library offers at nearly half the size and better speed.
 
   moment-timezone@0.5.48:
     resolution: {integrity: sha512-f22b8LV1gbTO2ms2j2z13MuPogNoh5UzxL3nzNAYKGraILnbGc9NEE6dyiiiLv46DGRb8A4kg8UKWLjPthxBHw==}
@@ -2518,7 +2519,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  hexo-theme-anzhiyu@1.6.14:
+  hexo-theme-anzhiyu@1.7.0:
     dependencies:
       hexo-renderer-pug: 3.0.0
       hexo-renderer-stylus: 3.0.1
