@@ -57,8 +57,8 @@ importers:
         specifier: ^1.0.0
         version: 1.1.0
       hexo-theme-solitude:
-        specifier: ^3.0.20
-        version: 3.0.20
+        specifier: ^3.0.21
+        version: 3.0.21
       hexo-wordcount:
         specifier: ^6.0.1
         version: 6.0.1
@@ -838,8 +838,8 @@ packages:
   hexo-theme-landscape@1.1.0:
     resolution: {integrity: sha512-nszjixBEiEDZjf7glAGbHg0nKGHZdUDwzFVVdRDeu4FeHfGcY5CZNl9sF4vSligjnD8IwFXpDfx5E+GRmNKvWg==}
 
-  hexo-theme-solitude@3.0.20:
-    resolution: {integrity: sha512-3Zh/b+z80fT3HLnMA6nKzcqZLv4q7BJVfYK7jyO6WanYZ2AC5TtxzG8LA/c1SEJ2hwy8yy8mTa+esUX3GGPa/A==}
+  hexo-theme-solitude@3.0.21:
+    resolution: {integrity: sha512-kTOC2Bsyjz7sNhC/q0pUAcl+SUCnYDLtl4nJUNY/CmcjB93uJBJQiq5M8bueOcpVVjslb8P9jbYAWutCKuD33A==}
 
   hexo-util@2.7.0:
     resolution: {integrity: sha512-hQM3h34nhDg0bSe/Tg1lnpODvNkz7h2u0+lZGzlKL0Oufp+5KCAEUX9wal7/xC7ax3/cwEn8IuoU75kNpZLpJQ==}
@@ -2527,7 +2527,7 @@ snapshots:
 
   hexo-theme-landscape@1.1.0: {}
 
-  hexo-theme-solitude@3.0.20:
+  hexo-theme-solitude@3.0.21:
     dependencies:
       hexo-renderer-pug: 3.0.0
       hexo-renderer-stylus: 3.0.1
